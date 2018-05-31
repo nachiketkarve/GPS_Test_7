@@ -1,0 +1,12 @@
+/*
+ * main.c
+ *
+ *  Created on: 25-May-2018
+ *      Author: Nachiket
+ */
+
+#include "stdio.h"
+
+int main(){
+	return 0;
+}
